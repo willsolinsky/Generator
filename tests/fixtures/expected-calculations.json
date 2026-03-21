@@ -1,0 +1,55 @@
+[
+  {
+    "segment_id": "SEG-001",
+    "notes": "RET 8 @ 6.67ft + WOT 6 @ 6ft, 45.5 LF, 2 corners, 1 end",
+    "blocks": {
+      "courses_ret": 11,
+      "standard_block_count_min": 400,
+      "bond_beam_block_count_min": 45,
+      "total_block_count_min": 400
+    },
+    "grout": {
+      "ret_full_fill": true,
+      "wot_partial_fill": false,
+      "wot_full_fill": true,
+      "grout_cy_min": 1.0
+    },
+    "rods": {
+      "rod_size": "#5",
+      "rod_count_min": 1
+    }
+  },
+  {
+    "segment_id": "SEG-002",
+    "notes": "RET 12 @ 10ft, 78.25 LF, 1 miter, 3 CJ",
+    "blocks": {
+      "courses": 15,
+      "standard_block_count_min": 800,
+      "total_block_count_min": 800
+    },
+    "grout": {
+      "ret_full_fill": true,
+      "grout_cy_min": 2.0
+    },
+    "rods": {
+      "rod_size": "#6",
+      "rod_count_min": 1
+    }
+  },
+  {
+    "segment_id": "SEG-003",
+    "notes": "WOT 6 @ 4ft, 120 LF, no labels",
+    "blocks": {
+      "courses": 6,
+      "standard_block_count_min": 500,
+      "total_block_count_min": 500
+    },
+    "grout": {
+      "wot_partial_fill": true,
+      "grout_cy_min": 0.1
+    },
+    "rods": {
+      "rod_count_min": 1
+    }
+  }
+]
