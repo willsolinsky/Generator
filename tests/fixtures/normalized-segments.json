@@ -1,0 +1,67 @@
+[
+  {
+    "segment_id": "SEG-001",
+    "raw_label": "E RET 8 PROTO 6.67 _ WOT 6 PROTO 6",
+    "ret": {
+      "type": "RET",
+      "width_in": 8,
+      "texture": "PROTO",
+      "height_ft": 6.67
+    },
+    "wot": {
+      "type": "WOT",
+      "width_in": 6,
+      "texture": "PROTO",
+      "height_ft": 6.0
+    },
+    "length_lf": 45.5,
+    "area_sf": 304.1,
+    "avg_height_ft": 6.335,
+    "labels": {
+      "corner_count": 2,
+      "miter_count": 0,
+      "control_joint_count": 0,
+      "end_count": 1
+    }
+  },
+  {
+    "segment_id": "SEG-002",
+    "raw_label": "RET 12 SPLIT 10",
+    "ret": {
+      "type": "RET",
+      "width_in": 12,
+      "texture": "SPLIT",
+      "height_ft": 10.0
+    },
+    "wot": null,
+    "length_lf": 78.25,
+    "area_sf": 782.5,
+    "avg_height_ft": 10.0,
+    "labels": {
+      "corner_count": 0,
+      "miter_count": 1,
+      "control_joint_count": 3,
+      "end_count": 0
+    }
+  },
+  {
+    "segment_id": "SEG-003",
+    "raw_label": "WOT 6 SMOOTH 4",
+    "ret": null,
+    "wot": {
+      "type": "WOT",
+      "width_in": 6,
+      "texture": "SMOOTH",
+      "height_ft": 4.0
+    },
+    "length_lf": 120.0,
+    "area_sf": 480.0,
+    "avg_height_ft": 4.0,
+    "labels": {
+      "corner_count": 0,
+      "miter_count": 0,
+      "control_joint_count": 0,
+      "end_count": 0
+    }
+  }
+]
