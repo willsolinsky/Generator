@@ -1,0 +1,15 @@
+line:
+  - curb_gutter
+  - sidewalk_run
+  - barrier_curb
+  - valley_gutter
+  - trail
+area:
+  - stamped_concrete
+  - ramp_area
+  - driveway
+  - bus_shelter_pad
+point:
+  - di
+  - dome
+  - pop_out
