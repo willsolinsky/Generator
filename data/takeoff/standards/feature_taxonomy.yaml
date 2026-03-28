@@ -1,0 +1,26 @@
+sidewalk:
+  attached:
+  detached:
+  paseo:
+  trail:
+curb_gutter:
+  vertical:
+  rolled:
+  barrier:
+  valley_gutter:
+ramps:
+  case_c:
+  case_f:
+  landing:
+drainage:
+  di:
+  manhole:
+  trough:
+  popout:
+hardscape:
+  stamped_concrete:
+  driveway:
+  apron:
+special:
+  bus_turnout:
+  shelter_pad:
