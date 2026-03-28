@@ -1,3 +1,23 @@
 {
-  "tools": []
+  "file": "WCL-Tools.btx",
+  "tools": [
+    { "name": "RET 4",            "type": "Polyline", "label": "RET 4",            "subject": "Retaining Wall" },
+    { "name": "RET 6",            "type": "Polyline", "label": "RET 6",            "subject": "Retaining Wall" },
+    { "name": "RET 8",            "type": "Polyline", "label": "RET 8",            "subject": "Retaining Wall" },
+    { "name": "RET 10",           "type": "Polyline", "label": "RET 10",           "subject": "Retaining Wall" },
+    { "name": "RET 12",           "type": "Polyline", "label": "RET 12",           "subject": "Retaining Wall" },
+    { "name": "WOT 4",            "type": "Polyline", "label": "WOT 4",            "subject": "Wall on Top" },
+    { "name": "WOT 6",            "type": "Polyline", "label": "WOT 6",            "subject": "Wall on Top" },
+    { "name": "WOT 8",            "type": "Polyline", "label": "WOT 8",            "subject": "Wall on Top" },
+    { "name": "WOT 10",           "type": "Polyline", "label": "WOT 10",           "subject": "Wall on Top" },
+    { "name": "WOT 12",           "type": "Polyline", "label": "WOT 12",           "subject": "Wall on Top" },
+    { "name": "RET 8 _ WOT 6",    "type": "Polyline", "label": "RET 8 _ WOT 6",   "subject": "Retaining Wall" },
+    { "name": "RET 8 _ WOT 8",    "type": "Polyline", "label": "RET 8 _ WOT 8",   "subject": "Retaining Wall" },
+    { "name": "RET 12 _ WOT 6",   "type": "Polyline", "label": "RET 12 _ WOT 6",  "subject": "Retaining Wall" },
+    { "name": "RET 12 _ WOT 8",   "type": "Polyline", "label": "RET 12 _ WOT 8",  "subject": "Retaining Wall" },
+    { "name": "Corner",           "type": "Count",    "label": "CORNER",           "subject": "Corner Count" },
+    { "name": "Miter",            "type": "Count",    "label": "MITER",            "subject": "Miter Count" },
+    { "name": "Control Joint",    "type": "Count",    "label": "CJ",               "subject": "Control Joint Count" },
+    { "name": "End",              "type": "Count",    "label": "END",              "subject": "End Count" }
+  ]
 }
